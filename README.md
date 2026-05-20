@@ -14,8 +14,8 @@ The system queries hardware telemetry via JSON APIs, extracts key metrics such a
 ## Planned Features
 - SQLite telemetry history
 - Automated anomaly detection
-- Discord notifications
-- AI-generated summaries
+- User notifications
+- Local AI-generated summaries
 - Multi-system monitoring
 - Long-term telemetry tracking
 
